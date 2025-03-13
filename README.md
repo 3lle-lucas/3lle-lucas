@@ -33,3 +33,19 @@
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
     </a>
 </p>
+
+<hr>
+
+<h2> 🏆 Skills & Expertise </h2>
+<ul>
+    <li>🛡️ Threat Hunting & Incident Response</li>
+    <li>💻 Penetration Testing & Red Teaming</li>
+    <li>⚙️ Developer</li>
+</ul>
+
+<hr>
+
+<h2> 📅 Upcoming Projects </h2>
+<ul>
+    <li>🚀 BadFriend - The Powershell LaZagne</li>
+</ul>
